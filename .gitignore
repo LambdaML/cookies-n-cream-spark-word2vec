@@ -1,2 +1,8 @@
 *.class
 *.log
+
+project/
+target/
+build/
+*/project/
+*/target/
